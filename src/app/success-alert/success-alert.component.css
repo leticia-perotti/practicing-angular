@@ -1,0 +1,11 @@
+.success{
+  height: 50px;
+  width: 300px;
+  background-color: #119b4da1;
+  border-radius: 30px;
+}
+.span{
+  font-size: bold;
+  color: rgb(3, 72, 25);
+  margin: 0 auto;
+}
