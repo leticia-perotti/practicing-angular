@@ -12,6 +12,7 @@ export class ServerComponent implements OnInit {
   serverId: number = 10;
   serverStatus: string = 'offline';
 
+  allowNewServer: boolean = false;
   constructor() { }
 
   ngOnInit(): void {
